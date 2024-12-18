@@ -15,4 +15,4 @@
 
 ## 📫 Get in Touch
 - [LinkedIn](https://linkedin.com/in/abdellasiraje)
-- [Portfolio](https://github.com/Abdi-sir/Portfolio)
+- [Portfolio](https://abdi-sir.github.io/Portfolio/)
