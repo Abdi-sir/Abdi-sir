@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdella Siraje!
 
-<!--
-**Abdi-sir/Abdi-sir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🎓 A Computer Engineering student passionate about AI and Web Development.
+- 🌐 Building innovative projects like Hotel Management Systems and Disease Prediction Systems.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- **Languages**: Python, JavaScript, C++, etc.
+- **Frameworks**: React, Node.js, Django.
+- **Other Tools**: Git, Sanity, Supabase, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Working On
+- A full-stack e-learning platform using React and Node.js.
+- Teaching students C++ and Full Stack Development.
+
+## 📫 Get in Touch
+- [LinkedIn](https://linkedin.com/in/abdellasiraje)
+- [Portfolio]([https://](https://github.com/Abdi-sir/Portfolio))
